@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="Javaluator">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/Javaluator.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
